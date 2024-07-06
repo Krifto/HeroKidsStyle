@@ -25,7 +25,10 @@
   
   width: 11in;
   height: 8.5in;
-  
+}
+
+.page:has(.licensepage) p {
+     padding-bottom: 30px;
 }
 
 
@@ -167,6 +170,10 @@
 .page p+p, .page ul+p, .page ol+p {
   text-indent: unset;
 }
+
+
+
+
 
 
 .page .scrollnote {
