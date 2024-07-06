@@ -31,3 +31,50 @@
   height: 8.5in;
   
 }
+
+
+
+/* HEADERS */
+
+.page h1 {
+  color           : black;
+  font-family     : 'MonogramsToolbox';
+  font-size       : 22pt;
+  font-weight     : normal;
+  margin-bottom   : 0.08in;
+  text-indent     : 0.3in;
+}
+  
+.page h2 {
+  color           : black;
+  font-family     : 'Salernomi';
+  font-size       : 20pt;
+  font-weight     : normal;
+  margin-bottom   : 0.08in;
+}
+
+.page h3 {
+  color           : black;
+  font-family     : 'Baramond';
+  font-size       : 16pt;
+  font-weight     : bold;
+  font-style      : italic;
+  margin-bottom   : 0.08in;
+  margin-top      :14pt;
+  border          : none;
+}
+
+/* Text Styles */
+
+.page .descriptive {
+  background-color : unset;
+  border-style	   : unset;
+  font-family      : 'Baramond';
+  font-size        : 14pt;
+  font-style       : italic;
+  border           : 1px solid;
+  padding-left     : 0.08in;
+  padding-right    : 0.08in;  
+  margin           : 2mm -1mm;
+  width	           : calc(100% + 2mm);
+}
