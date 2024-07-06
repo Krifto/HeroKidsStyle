@@ -169,4 +169,33 @@
 }
 
 
+.page .scrollnote {
 
+    position:absolute;
+    top:320px;
+    left:145px;
+    width:4.43in;
+    height:4.67in;
+    background-image: url(https://rawcdn.githack.com/Krifto/HeroKidsStyle/main/assets/scroll.png);
+
+    background-size: 4.43in;
+    background-repeat:no-repeat;
+    background-position: center center;
+    color           : black;
+    font-family     : 'Salernomi J';
+    font-size: 18pt;
+    text-align: center;
+    padding-top:20px;
+    line-height:1.4;
+}
+
+.scrollnoteheader
+{
+  color           : black;
+  font-family     : 'MonogramsToolbox';
+  font-size				: 22pt;
+  font-weight: ;
+  margin-bottom: .58in;
+  text-indent: 0.3in;
+  text-align: center;
+}
