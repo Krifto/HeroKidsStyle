@@ -11,7 +11,7 @@
 
 .page {
   background-image    :  url('https://rawcdn.githack.com/Krifto/HeroKidsStyle/main/assets/squiggle.png'), url('https://rawcdn.githack.com/Krifto/HeroKidsStyle/main/assets/herokids_bg.jpg');
-  background-size     :  7.08in 0.16in, 100% 100%;
+  background-size     :  9.44in 0.16in, 100% 100%;
   background-position : center 1cm , top;
   background-repeat   : no-repeat, no-repeat;
   padding             : 0.83in  0.76in  0.52in  0.55in;
@@ -43,7 +43,7 @@
   
 .page h2 {
   color           : black;
-  font-family     : 'Salernomi';
+  font-family     : 'Salernomi J';
   font-size       : 20pt;
   font-weight     : normal;
   margin-bottom   : 0.08in;
@@ -62,19 +62,25 @@
 
 /* Text Styles */
 
-.page .descriptive {
+.page .descriptive  {
   background-color : unset;
   border-style	   : unset;
-  font-family      : 'Baramond';
-  font-size        : 14pt;
-  font-style       : italic;
   border           : 1px solid;
   padding-left     : 0.08in;
   padding-right    : 0.08in;  
-  margin           : 2mm -1mm;
-  width	           : calc(100% + 2mm);
+  margin-left      : 0mm;
+  margin-right     : 0mm;
+  margin-top       : 4mm;
+  margin-bottom    : 0mm;
 }
 
+
+.page .descriptive p {
+    font-family      : 'Baramond';
+    font-size        : 14pt;
+    font-style       : italic;
+    line-height: 1.3em;
+}
 
 /* Monster Position Icons */
 .page .ID1 {background-image:url('https://rawcdn.githack.com/Krifto/HeroKidsStyle/main/assets/1.png');}
@@ -106,7 +112,7 @@
   line-height       : 1.2;
 }
 
-.page .monstertable [class*="ID"] {
+.page .monstertable td [class*="ID"] {
    width            : 0.19in; 
    height           : 0.2in;
    background-size  : 0.2in;
@@ -114,7 +120,7 @@
 
 .page .damagetable table tbody tr td {
   font-family       : 'Baramond';
-  font-size	    : 14pt;
+  font-size	        : 14pt;
   border            : 0.5pt solid;
   border-collapse   : collapse;
   text-align        : left;
@@ -122,9 +128,10 @@
   padding-bottom    : 1pt;
   padding-left      : 7pt;
   line-height       : 1.2;
+  vertical-align: middle;
 }
 
-.page .damagetable [class*="ID"]
+.page .damagetable td [class*="ID"]
 {
    width               : 0.19in; 
    height              : 0.2in;
@@ -136,13 +143,14 @@
    background-position : center;
 }
 
-.page .damagetable [class*="hp"]
+.page .damagetable td [class*="hp"]
 {
    width              : 2.13in; 
    height             : 0.43in;
    background-size    : 90%;
    background-repeat  : no-repeat;
    background-position: center center;
+   
 }
 
 
@@ -156,6 +164,9 @@
     background-image: unset;
 }
 
+.page p+p, .page ul+p, .page ol+p {
+  text-indent: unset;
+}
 
 
 
