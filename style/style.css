@@ -1,0 +1,23 @@
+
+.page {
+	background-image	  : 
+  url('https://rawcdn.githack.com/Krifto/HeroKidsStyle/main/assets/squiggle.png'), url('https://rawcdn.githack.com/Krifto/HeroKidsStyle/main/assets/herokids_bg.jpg');
+
+  background-size     :  7.08in 0.16in, 100% 100%;
+  background-position : center 1cm , top;
+  background-repeat   : no-repeat, no-repeat;
+	padding						  : 0.83in  0.76in  0.52in  0.55in;
+  
+  
+  font-family         : 'Baramond';
+	font-size					  : 14pt;
+	text-align				  : justify;
+	column-gap  			  : 0.47in;
+  
+  /*height  : 210mm;
+	width: 296.8mm;*/
+  
+  width: 11in;
+  height: 8.5in;
+  
+}
