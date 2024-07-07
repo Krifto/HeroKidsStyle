@@ -4,7 +4,7 @@
 
 {{scrollnote
 
-{{pen,font-size:26pt,font-family:MonogramsToolbox Homebrew Adventure NAME}}
+{{pen,font-size:26pt,font-family:MonogramsToolbox Homebrew Adventure <br> NAME}}
 
 <br><br>
 
@@ -73,8 +73,7 @@ Version: 0.1 (Build 1)
 Change log:
 - xxx 
 
-{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
-{{pageNumber,auto}}
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
 \page
 
 
@@ -116,8 +115,7 @@ There’s a moment of silence as all eyes look to you heroes.  Your parents enco
 }}
 
 
-{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
-{{pageNumber,auto}}
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
 \page
 
 ## Encounter 1: Name of the Encounter
@@ -153,8 +151,7 @@ The players can have their heroes perform a number of ability tests:
 - Intelligence (Perception) tests at difficulty 4 to hear Roger’s shouts in the distance.
 - Intelligence (Knowledge/Lore) tests at difficulty 5 to know that the basement is often overrun by rats (but not usually this big).
 
-{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
-{{pageNumber,auto}}
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
 \page
 
 ### Monsters
@@ -203,8 +200,7 @@ If the heroes were damaged in combat then they can take a short rest to remove d
 
 Continue to **Encounter 2: Ancient Cistern**.
 
-{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
-{{pageNumber,auto}}
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
 \page
 
 ## Encounter 1: Where Does This Cave Go!
@@ -235,8 +231,7 @@ Additional rats can enter the fight from this ledge and jump down onto the heroe
 ### Ability Tests
 The players can have their heroes perform an Intelligence (Tracking) test at difficulty 4 which lets them see rat footprints that they can track to the east.
 
-{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
-{{pageNumber,auto}}
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
 \page
 
 
@@ -287,8 +282,7 @@ If the heroes were damaged in combat then they can take a short rest to remove d
 Continue to **Encounter 2: Ancient Cistern**.
 
 
-{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
-{{pageNumber,auto}}
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
 \page
 
 
@@ -324,8 +318,7 @@ The players can have their heroes perform a number of ability tests:
 - Intelligence (Tracking) tests let them see rat footprints that they can track to the north (this will give them a hint that the rats’ den is to the north, not the south).
 
 
-{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
-{{pageNumber,auto}}
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
 \page
 
 
@@ -382,5 +375,4 @@ Once the players are ready, they can decide which way they want to go:
 
 
 
-{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
-{{pageNumber,auto}}
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
