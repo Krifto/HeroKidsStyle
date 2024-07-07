@@ -423,12 +423,12 @@ There may or may not be monsters here, so here are some random boxes for damage!
 | 4 Heroes:  | 8 x Skeleton Shamblers   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}} {{ID7 {{ID8}}}} |
 
 }}
-
     
 Use these health boxes to mark off damage:
+
 {{damagetable 
 |  |  |   |
-|:----|:-------------------------------:|:----------:|
+|:----|:--------------------------------:|:----------:|
 | {{ID1}}   | Skeleton Shambler          | {{hp1}}    | 
 | {{ID2}}   | Skeleton Shambler          | {{hp1}}    | 
 | {{ID3}}   | Skeleton Shambler          | {{hp1}}    | 
