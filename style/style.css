@@ -225,6 +225,12 @@
     font-family       : 'Baramond';
 }
 
+
+.footerleft::after {
+ content: " Hero Kids Adventure – Template";
+}
+
+
 .page .footercenter {
     position: absolute;
     left: 0px;
@@ -235,10 +241,14 @@
     color: black;
     text-align: center;
     font-family       : 'Baramond';
+    
 }
 
+.footercenter::after {
+ content: "Justin Halliday";
+}
 
-.page .footeright {
+.page .footerright {
     position: absolute;
     right: 80px;
     bottom: 32px;
@@ -249,6 +259,7 @@
     text-align: right;
     font-family       : 'Baramond';
 }
+
 
 
 
@@ -275,4 +286,8 @@
     color: black;
     text-align: right;
     font-family       : 'Baramond';
+}
+
+.pageNumber::before {
+  content: "Page ";
 }
