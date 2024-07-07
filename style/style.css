@@ -65,8 +65,12 @@
   font-weight     : bold;
   font-style      : italic;
   margin-bottom   : 0.08in;
-  margin-top      :14pt;
   border          : none;
+  margin-top      : 14pt;
+}
+
+.page h3:first-child {
+   margin-top   : 0;
 }
 
 /* Text Styles */
@@ -90,6 +94,9 @@
     font-style       : italic;
     line-height: 1.3em;
 }
+
+
+
 
 /* Monster Position Icons */
 .page .ID1 {background-image:url('https://rawcdn.githack.com/Krifto/HeroKidsStyle/main/assets/1.png');}
@@ -120,6 +127,10 @@
   padding-left      : 7pt;
   line-height       : 1.2;
   vertical-align    : middle;
+}
+
+.page .monstertable td {
+   overflow:hidden; white-space:nowrap
 }
 
 .page .monstertable td [class*="ID"] {
