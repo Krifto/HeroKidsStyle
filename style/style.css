@@ -113,6 +113,7 @@
   padding-bottom    : 1pt;
   padding-left      : 7pt;
   line-height       : 1.2;
+  vertical-align    : middle;
 }
 
 .page .monstertable td [class*="ID"] {
@@ -175,7 +176,7 @@
 
 
 
-
+/* scroll background */
 .page .scrollnote {
 
     position:absolute;
@@ -205,4 +206,73 @@
   margin-bottom: .58in;
   text-indent: 0.3in;
   text-align: center;
+}
+
+
+
+/* Footer */
+
+.page .footerleft {
+    position: absolute;
+    left: 80px;
+    bottom: 32px;
+    z-index: 150;
+    width: 100%;
+    font-size: 8pt;
+ 
+    color: black;
+    text-align: left;
+    font-family       : 'Baramond';
+}
+
+.page .footercenter {
+    position: absolute;
+    left: 0px;
+    bottom: 32px;
+    z-index: 150;
+    width: 100%;
+    font-size: 8pt;
+    color: black;
+    text-align: center;
+    font-family       : 'Baramond';
+}
+
+
+.page .footeright {
+    position: absolute;
+    right: 80px;
+    bottom: 32px;
+    z-index: 150;
+    width: 100%;
+    font-size: 8pt;
+    color: black;
+    text-align: right;
+    font-family       : 'Baramond';
+}
+
+
+
+.page::after {
+    position: absolute;
+    background-image: unset;
+    
+}
+
+.page:nth-child(even)::after {
+    transform: unset
+}
+
+.page:nth-child(even) .pageNumber {
+    left: unset
+}
+
+
+.page .pageNumber {
+    right: 80px;
+    bottom: 32px;
+    color: red;
+    font-size: 8pt;
+    color: black;
+    text-align: right;
+    font-family       : 'Baramond';
 }
