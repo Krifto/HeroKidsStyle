@@ -373,6 +373,167 @@ Once the players are ready, they can decide which way they want to go:
 - The north passage to **Encounter 5**
 
 
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
+\page
+
+## Encounter 4: A Momentary Detour!
+This fourth encounter area is actually empty.  Feel free to keep it empty, or to try something like this:
+- There’s a monster in the water
+- Old man Jenkins has been stuck down here for years
+- The water is magical (refills potions, increases strength, something else)
+- The heroes see something sparkling at the bottom of the pool of water
+- The stalagmites contain the frozen figures of monsters/commoners
+
+### Map
+
+\column
+
+### Encounter Intro
+When the heroes enter this area, read this:
+
+{{descriptive
+The rocky tunnel turns left and then right before opening into a larger cavern.
+The soft blue light from the fungi is reflected in the surface of the pool of water, and the light dances and sparkles on the roof of the cavern.
+
+}}
+
+### Encounter Features
+
+This area has two main features, the pool of water and the stalagmites in the middle of the cavern.
+
+### Ability Tests
+Any ability tests that the players can perform are up to you.  Maybe they need to be dexterous to pick up the shiny thing from the bottom of the pool, or maybe a giant tentacle grabs one of the heroes and tries to drag him or her into the water.
+
+
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
+\page
+
+
+
+
+### Monsters
+There may or may not be monsters here, so here are some random boxes for damage!
+{{monstertable
+
+|  |  |   |
+|:---------|:--------------------------:|:----------------------------------------------------------------:|
+| 1 Hero:    | 8 x Skeleton Shamblers   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}}                         |
+| 2 Heroes:  | 8 x Skeleton Shamblers   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}}                 |
+| 3 Heroes:  | 8 x Skeleton Shamblers   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}} {{ID7}}         |
+| 4 Heroes:  | 8 x Skeleton Shamblers   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}} {{ID7 {{ID8}}}} |
+
+}}
+
+    
+Use these health boxes to mark off damage:
+{{damagetable 
+|  |  |   |
+|:----|:-------------------------------:|:----------:|
+| {{ID1}}   | Skeleton Shambler          | {{hp1}}    | 
+| {{ID2}}   | Skeleton Shambler          | {{hp1}}    | 
+| {{ID3}}   | Skeleton Shambler          | {{hp1}}    | 
+| {{ID4}}   | Skeleton Shambler          | {{hp1}}    | 
+| {{ID5}}   | Skeleton Shambler          | {{hp1}}    | 
+| {{ID6}}   | Skeleton Shambler          | {{hp1}}    | 
+| {{ID7}}   | Skeleton Shambler          | {{hp1}}    | 
+| {{ID8}}   | Skeleton Shambler          | {{hp1}}    | 
+}}
+
+\column
+
+### Tactics
+Up to you really.
+
+### Conclusion
+If they heroes have had a fight, allow them to rest to recover any damage.
+
+Once the players are ready, they should head back to the north, through the cavern of **Encounter 3**, and onwards to **Encounter 5**.
+
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
+\page
+
+
+
+## Encounter 5: Rat Den!
+The final encounter is the rats’ den.
+This climactic battle sees the heroes defeat the rats and their king rat and rescue Roger.
+
+### Map
+
+\column
+
+### Encounter Intro
+When the heroes enter this area, read this:
+
+{{descriptive
+The stench of rats is almost overwhelming as you push further down the tunnel.
+
+Ahead of you there is a low ledge, perhaps four feet high, and another ledge further along.
+
+You see mangy rats scurrying back and forth on the ledge and you realize that you have entered their filthy den!
+}}
+
+### Encounter Features
+
+The main features of this area are the two ledges, which are easily scaled (but cost 1 extra square of movement), and the rat holes in all of the walls.  The rats can move into these holes and emerge out of any other hole.
+
+### Ability Tests
+The players can have their heroes perform a number of ability tests:
+
+- Intelligence tests (Tracking) to see that the rat holes are interconnected.
+
+
+{{footerleft}}{{footercenter}}{{pageNumber,auto}}
+\page
+
+
+
+
+### Monsters
+This encounter features the rat king, plus one extra hungry rat for each hero.
+{{monstertable
+
+|  |  |   |
+|:---------|:------------------:|:----------------------------------------------------------------:|
+| 1 Hero:    | 2 x Giant Rats   | {{ID1}}  {{ID2}}                                                 |
+| 2 Heroes:  | 3 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}}                                         |
+| 3 Heroes:  | 4 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}}                                 |
+| 4 Heroes:  | 6 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}}                 |
+
+}}
+
+    
+Use these health boxes to mark off damage:
+{{damagetable 
+|  |  |   |
+|:----|:--------------------------------:|:----------:|
+| {{ID1}}   | Boss Monster               | {{hp4}}    | 
+| {{ID2}}   | Lizardkin Archer           | {{hp3}}    | 
+| {{ID3}}   | Lizardkin Archer           | {{hp3}}    | 
+| {{ID4}}   | Lizardkin Archer           | {{hp2}}    | 
+| {{ID5}}   | Lizardkin Archer           | {{hp2}}    | 
+| {{ID6}}   | Lizardkin Archer           | {{hp1}}    | 
+}}
+
+\column
+
+### Tactics
+All of these rats (including the king rat) use melee attacks against the heroes.  If they’ve got room, the rats can retreat into the rat holes and emerge from any of the other holes.
+
+### Conclusion
+Once all of the monsters are KO’d, read this:
+
+{{descriptive
+After an epic battle you finally strike down the king rat and his horde of stinky vermin.
+
+In the silence you hear muffled cries from one of the rat holes.  You quickly investigate and find Roger hiding in the hole.  He’s dirty and scared, but relieved to see you:
+
+“Thanks guys!  I thought I was a gonner for sure.  I’d got away from those blighters and hid in the hole, but they woulda got me out sooner or later if you guys hadn’t shown up to get me out!”
+
+He gives you a big hug, which you reluctantly accept because he is pretty filthy.
+
+“I reckon you guys deserve an extra serve of ice-cream for at least a whole week!”
+}}
 
 
 {{footerleft}}{{footercenter}}{{pageNumber,auto}}
