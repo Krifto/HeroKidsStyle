@@ -73,8 +73,11 @@ Version: 0.1 (Build 1)
 Change log:
 - xxx 
 
-
+{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
+{{pageNumber,auto}}
 \page
+
+
 
 ## Hero Kids Adventure
 This adventure requires a copy of the Hero Kids RPG to play.  The core game and this adventure include:
@@ -96,6 +99,7 @@ Rivenshore would be a beautiful place to live, if it weren’t plagued by endles
 ## Adventure Overview
 This five-encounter adventure takes place...
 
+
 \column
 
 ## Adventure Intro
@@ -112,7 +116,8 @@ There’s a moment of silence as all eyes look to you heroes.  Your parents enco
 }}
 
 
-
+{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
+{{pageNumber,auto}}
 \page
 
 ## Encounter 1: Name of the Encounter
@@ -148,8 +153,8 @@ The players can have their heroes perform a number of ability tests:
 - Intelligence (Perception) tests at difficulty 4 to hear Roger’s shouts in the distance.
 - Intelligence (Knowledge/Lore) tests at difficulty 5 to know that the basement is often overrun by rats (but not usually this big).
 
-
-
+{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
+{{pageNumber,auto}}
 \page
 
 ### Monsters
@@ -198,6 +203,8 @@ If the heroes were damaged in combat then they can take a short rest to remove d
 
 Continue to **Encounter 2: Ancient Cistern**.
 
+{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
+{{pageNumber,auto}}
 \page
 
 ## Encounter 1: Where Does This Cave Go!
@@ -228,6 +235,8 @@ Additional rats can enter the fight from this ledge and jump down onto the heroe
 ### Ability Tests
 The players can have their heroes perform an Intelligence (Tracking) test at difficulty 4 which lets them see rat footprints that they can track to the east.
 
+{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
+{{pageNumber,auto}}
 \page
 
 
@@ -278,6 +287,8 @@ If the heroes were damaged in combat then they can take a short rest to remove d
 Continue to **Encounter 2: Ancient Cistern**.
 
 
+{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
+{{pageNumber,auto}}
 \page
 
 
@@ -313,6 +324,8 @@ The players can have their heroes perform a number of ability tests:
 - Intelligence (Tracking) tests let them see rat footprints that they can track to the north (this will give them a hint that the rats’ den is to the north, not the south).
 
 
+{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
+{{pageNumber,auto}}
 \page
 
 
@@ -338,7 +351,7 @@ Use these health boxes to mark off damage:
 | {{ID1}}   | Lizardkin Shaman          | {{hp3}}    | 
 | {{ID2}}   | Lizardkin Archer          | {{hp2}}    | 
 | {{ID3}}   | Lizardkin Archer          | {{hp2}}    | 
-| {{ID4}}   | Lizardkin WArrior         | {{hp3}}    | 
+| {{ID4}}   | Lizardkin Warrior         | {{hp3}}    | 
 | {{ID5}}   | Lizardkin Archer          | {{hp2}}    | 
 | {{ID6}}   | Lizardkin Archer          | {{hp2}}    | 
 }}
@@ -365,3 +378,9 @@ The horrid smell of rats is strong from the north, and from the south you can he
 Once the players are ready, they can decide which way they want to go:
 - Head south to **Encounter 4**
 - The north passage to **Encounter 5**
+
+
+
+
+{{footerleft Hero Kids Adventure – Template}} {{footercenter Justin Halliday}}
+{{pageNumber,auto}}
