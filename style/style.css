@@ -1,3 +1,8 @@
+/*
+The most up-to-date version of this style can be found at: https://github.com/Krifto/HeroKidsStyle/blob/main/style/style.css
+*/
+
+
 /* WEBFONTS */
 /*
       www.OnlineWebFonts.Com 
@@ -5,6 +10,8 @@
       <div>Font made from <a href="http://www.onlinewebfonts.com/fonts">Web Fonts</a>is licensed by CC BY 
 */
 
+
+ 
 
 @font-face{
     font-family: "MonogramsToolbox";
@@ -242,9 +249,6 @@
 }
 
 
-
-
-
 /* scroll background */
 .page .scrollnote {
 
@@ -266,15 +270,15 @@
     line-height:1.4;
 }
 
-.scrollnoteheader
+.page .scrollnote h1
 {
   color           : black;
   font-family     : 'MonogramsToolbox';
-  font-size				: 22pt;
-  font-weight: ;
-  margin-bottom: .58in;
-  text-indent: 0.3in;
-  text-align: center;
+  font-size				: 26pt;
+  text-indent     : 0;
+  text-align      : center;
+  line-height     : 1.4;
+
 }
 
 
