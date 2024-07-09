@@ -1,10 +1,62 @@
 /* WEBFONTS */
-@import url(https://db.onlinewebfonts.com/c/bc4e3771a313d618eb3f3692628538ac?family=Baramond);
-@import url(https://db.onlinewebfonts.com/c/8a3f3ae790a366d8c22060e0654d9205?family=Baramond+Bold);
-@import url(https://db.onlinewebfonts.com/c/8b27858af3300c2a0f6e0cf9c5cf9589?family=Baramond+Italic);
-@import url(https://db.onlinewebfonts.com/c/f7801edb7313a5db113c7ed90ed7b34a?family=Baramond+Bold+Italic);
-@import url(https://db.onlinewebfonts.com/c/268c2247af1e14e51841a8859d089cb4?family=MonogramsToolbox);
-@import url(https://db.onlinewebfonts.com/c/5beb5b25f56a678a5c431d90eaa009c2?family=Salernomi+J);
+/*
+      www.OnlineWebFonts.Com 
+      You must credit the author Copy this link on your web 
+      <div>Font made from <a href="http://www.onlinewebfonts.com/fonts">Web Fonts</a>is licensed by CC BY 
+*/
+
+
+@font-face{
+    font-family: "MonogramsToolbox";
+    src: url("https://db.onlinewebfonts.com/t/268c2247af1e14e51841a8859d089cb4.woff2")format("woff2");
+    font-weight:normal;
+    font-style:normal;
+    font-display:block;
+}
+
+
+@font-face{
+    font-family: "Baramond";
+    src:url("https://db.onlinewebfonts.com/t/bc4e3771a313d618eb3f3692628538ac.woff2")format("woff2");
+    font-weight:normal;
+    font-style:normal;
+    font-display:block;
+}
+
+@font-face{
+    font-family: "Baramond Bold";
+    src:url("https://db.onlinewebfonts.com/t/8a3f3ae790a366d8c22060e0654d9205.woff2")format("woff2");
+    font-weight:normal;
+    font-style:normal;
+    font-display:block;
+}
+
+@font-face{
+    font-family: "Baramond Italic";
+    src:url("https://db.onlinewebfonts.com/t/8b27858af3300c2a0f6e0cf9c5cf9589.woff2")format("woff2");
+    font-weight:normal;
+    font-style:normal;
+    font-display:block;
+}
+
+@font-face{
+    font-family: "Baramond Bold Italic";
+    src: url("https://db.onlinewebfonts.com/t/f7801edb7313a5db113c7ed90ed7b34a.woff2")format("woff2");
+    font-weight:normal;
+    font-style:normal;
+    font-display:block;
+}
+
+
+@font-face{
+    font-family: "Salernomi J";
+    src: url("https://db.onlinewebfonts.com/t/5beb5b25f56a678a5c431d90eaa009c2.woff2")format("woff2");
+    font-weight:normal;
+    font-style:normal;
+    font-display:block;
+}
+ 
+ 
 
 
 :root {
