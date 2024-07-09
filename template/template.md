@@ -4,9 +4,9 @@
 
 {{scrollnote
 
-{{pen,font-size:26pt,font-family:MonogramsToolbox Homebrew Adventure <br> NAME}}
+# Homebrew Adventure Name
 
-<br><br>
+<br>
 
 Encounters: Number of Encounters
 
@@ -45,7 +45,7 @@ Hero Kids covers, hero, and monster art by Eric Quigley www.ericquigley.com
 Printing Authorization: This PDF document may be printed for personal use.
 
 
-   <div>Fonts made from <a href="http://www.onlinewebfonts.com/fonts">Web Fonts</a> are licensed by CC BY 4.0.</div>
+ Fonts made from <a href="http://www.onlinewebfonts.com/fonts">Web Fonts</a> are licensed by CC BY 4.0.
 
 }}
 \column
@@ -54,7 +54,8 @@ This product was created under license.
 
 This work contains material that is copyright Justin Halliday. Such material is used with permission under the Community Content Agreement for the Hero Kids Creator’s Guild.
 
-All other original material in this work is copyright [2024] by [your legal name or company name] and published under the Community Content Agreement for the Hero Kids Creator’s Guild.
+All other original material in this work is copyright [2024] by [your legal name or company name] and published under the [Community Content Agreement](https://help.drivethrurpg.com/hc/en-us/articles/12723269489815-Hero-Kids-Creator-s-Guild) for the 
+ [Hero Kids Creator's Guild](https://www.drivethrurpg.com/cc/24/Hero-Kids).
 
 
 {{font-size:22pt,font-family:MonogramsToolbox,text-align:center
