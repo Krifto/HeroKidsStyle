@@ -184,6 +184,7 @@ Use these health boxes to mark off damage:
 | {{ID6}}   | Lizardkin Archer   | {{hp2}}  | 
 }}
 
+\column
 
 ### Tactics
 The rats are gorging themselves on food scraps and won’t attack the heroes until they are attacked first.
@@ -255,6 +256,7 @@ This encounter features monsters that use melee and ranged attacks against the h
     
 Use these health boxes to mark off damage:
 {{damagetable 
+
 |     |                           |           |
 |:----|:-------------------------:|:---------:|
 | {{ID1}}   | Lizardkin Shaman    | {{hp3}}   |  
@@ -263,8 +265,10 @@ Use these health boxes to mark off damage:
 | {{ID4}}   | Lizardkin Archer    | {{hp2}}   |  
 | {{ID5}}   | Lizardkin Archer    | {{hp2}}   |  
 | {{ID6}}   | Lizardkin Archer    | {{hp2}}   |  
+
 }}
 
+\column
 
 ### Tactics
 The rats are gorging themselves on food scraps and won’t attack the heroes until they are attacked first.
@@ -332,8 +336,8 @@ The players can have their heroes perform a number of ability tests:
 This encounter features one or two rats for each of the heroes (or less if you like).  Bring the extra rats on from the north cave as the fight progresses.
 {{monstertable
 
-|  |  |   |
-|:---------|:---------------------:|:-------------------------------------------------:|
+|            |                     |                                                   |
+|:-----------|:-------------------:|:-------------------------------------------------:|
 | 1 Hero:    | 2 x Giant Rats      | {{ID1}}  {{ID2}}                                  |
 | 2 Heroes:  | 3 x Giant Rats      | {{ID1}}  {{ID2}} {{ID3}} {{ID4}}                  |
 | 3 Heroes:  | 4 x Giant Rats      | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}}          |
@@ -344,8 +348,8 @@ This encounter features one or two rats for each of the heroes (or less if you l
     
 Use these health boxes to mark off damage:
 {{damagetable 
-|  |  |   |
-|:----|:-------------------------------:|:----------:|
+|           |                           |            |
+|:----------|:-------------------------:|:----------:|
 | {{ID1}}   | Lizardkin Shaman          | {{hp3}}    | 
 | {{ID2}}   | Lizardkin Archer          | {{hp2}}    | 
 | {{ID3}}   | Lizardkin Archer          | {{hp2}}    | 
@@ -420,8 +424,8 @@ Any ability tests that the players can perform are up to you.  Maybe they need t
 There may or may not be monsters here, so here are some random boxes for damage!
 {{monstertable
 
-|  |  |   |
-|:---------|:--------------------------:|:----------------------------------------------------------------:|
+|            |                          |                                                                  |
+|:-----------|:------------------------:|:----------------------------------------------------------------:|
 | 1 Hero:    | 8 x Skeleton Shamblers   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}}                         |
 | 2 Heroes:  | 8 x Skeleton Shamblers   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}}                 |
 | 3 Heroes:  | 8 x Skeleton Shamblers   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}} {{ID7}}         |
@@ -432,8 +436,8 @@ There may or may not be monsters here, so here are some random boxes for damage!
 Use these health boxes to mark off damage:
 
 {{damagetable 
-|  |  |   |
-|:----|:--------------------------------:|:----------:|
+|           |                            |            |
+|:----------|:--------------------------:|:----------:|
 | {{ID1}}   | Skeleton Shambler          | {{hp1}}    | 
 | {{ID2}}   | Skeleton Shambler          | {{hp1}}    | 
 | {{ID3}}   | Skeleton Shambler          | {{hp1}}    | 
@@ -498,20 +502,20 @@ The players can have their heroes perform a number of ability tests:
 This encounter features the rat king, plus one extra hungry rat for each hero.
 {{monstertable
 
-|  |  |   |
-|:---------|:------------------:|:----------------------------------------------------------------:|
-| 1 Hero:    | 2 x Giant Rats   | {{ID1}}  {{ID2}}                                                 |
-| 2 Heroes:  | 3 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}}                                         |
-| 3 Heroes:  | 4 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}}                                 |
-| 4 Heroes:  | 6 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}}                 |
+|            |                  |                                                                |
+|:-----------|:----------------:|:--------------------------------------------------------------:|
+| 1 Hero:    | 2 x Giant Rats   | {{ID1}}  {{ID2}}                                               |
+| 2 Heroes:  | 3 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}}                                       |
+| 3 Heroes:  | 4 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}}                               |
+| 4 Heroes:  | 6 x Giant Rats   | {{ID1}}  {{ID2}} {{ID3}} {{ID4}} {{ID5}} {{ID6}}               |
 
 }}
 
     
 Use these health boxes to mark off damage:
 {{damagetable 
-|  |  |   |
-|:----|:--------------------------------:|:----------:|
+|           |                            |            |
+|:----------|:--------------------------:|:----------:|
 | {{ID1}}   | Boss Monster               | {{hp4}}    | 
 | {{ID2}}   | Lizardkin Archer           | {{hp3}}    | 
 | {{ID3}}   | Lizardkin Archer           | {{hp3}}    | 
