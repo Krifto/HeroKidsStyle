@@ -43,6 +43,10 @@ Hero Kids covers, hero, and monster art by Eric Quigley www.ericquigley.com
 
 
 Printing Authorization: This PDF document may be printed for personal use.
+
+
+   <div>Fonts made from <a href="http://www.onlinewebfonts.com/fonts">Web Fonts</a> are licensed by CC BY 4.0.</div>
+
 }}
 \column
 
