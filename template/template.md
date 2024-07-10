@@ -21,6 +21,8 @@ XXXXXX XXXXXXXX
 }}
 
 
+
+
 \page
 
 {{licensepage}}
@@ -29,12 +31,16 @@ XXXXXX XXXXXXXX
 
 
 {{font-size:14pt,font-family:Baramond,text-align:center
-<br><br><br><br><br><br><br>
+<br><br><br><br>
+
+Please note that this is for home use. If you want to publish custom content based on this template, it has to adhere to the [Hero Kids Creator's Guild](https://www.drivethrurpg.com/cc/24/Hero-Kids) license terms.
+
 Hero Kids and Hero Forge Games
 are trademarks of Justin Halliday
 
 
 [herokidsrpg.blogspot.com](herokidsrpg.blogspot.com) [heroforgegames.com](heroforgegames.com)
+
 
 
 Hero Kids designed and written by Justin Halliday
